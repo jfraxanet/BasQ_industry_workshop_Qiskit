@@ -1,2 +1,4 @@
-# BasQ_industry_workshop_Qiskit_2
-Here you can find the solutions to the Qiskit exercices shown during the lecture. 
+# BasQ industry workshop
+# Qiskit sessions
+
+Here you can find the solutions to the Qiskit exercises shown during the sessions. 
